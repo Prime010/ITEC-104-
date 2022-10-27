@@ -1,0 +1,15 @@
+C:\Users\Prime_05\OneDrive\Documents\Prime\ITEC 104\ITEC104_ACTIVITY4_ALVAREZ\ACTIVITY_04\ACTIVITY_04\bin\Debug\net6.0\ACTIVITY_04.exe
+C:\Users\Prime_05\OneDrive\Documents\Prime\ITEC 104\ITEC104_ACTIVITY4_ALVAREZ\ACTIVITY_04\ACTIVITY_04\bin\Debug\net6.0\ACTIVITY_04.deps.json
+C:\Users\Prime_05\OneDrive\Documents\Prime\ITEC 104\ITEC104_ACTIVITY4_ALVAREZ\ACTIVITY_04\ACTIVITY_04\bin\Debug\net6.0\ACTIVITY_04.runtimeconfig.json
+C:\Users\Prime_05\OneDrive\Documents\Prime\ITEC 104\ITEC104_ACTIVITY4_ALVAREZ\ACTIVITY_04\ACTIVITY_04\bin\Debug\net6.0\ACTIVITY_04.dll
+C:\Users\Prime_05\OneDrive\Documents\Prime\ITEC 104\ITEC104_ACTIVITY4_ALVAREZ\ACTIVITY_04\ACTIVITY_04\bin\Debug\net6.0\ACTIVITY_04.pdb
+C:\Users\Prime_05\OneDrive\Documents\Prime\ITEC 104\ITEC104_ACTIVITY4_ALVAREZ\ACTIVITY_04\ACTIVITY_04\obj\Debug\net6.0\ACTIVITY_04.csproj.AssemblyReference.cache
+C:\Users\Prime_05\OneDrive\Documents\Prime\ITEC 104\ITEC104_ACTIVITY4_ALVAREZ\ACTIVITY_04\ACTIVITY_04\obj\Debug\net6.0\ACTIVITY_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prime_05\OneDrive\Documents\Prime\ITEC 104\ITEC104_ACTIVITY4_ALVAREZ\ACTIVITY_04\ACTIVITY_04\obj\Debug\net6.0\ACTIVITY_04.AssemblyInfoInputs.cache
+C:\Users\Prime_05\OneDrive\Documents\Prime\ITEC 104\ITEC104_ACTIVITY4_ALVAREZ\ACTIVITY_04\ACTIVITY_04\obj\Debug\net6.0\ACTIVITY_04.AssemblyInfo.cs
+C:\Users\Prime_05\OneDrive\Documents\Prime\ITEC 104\ITEC104_ACTIVITY4_ALVAREZ\ACTIVITY_04\ACTIVITY_04\obj\Debug\net6.0\ACTIVITY_04.csproj.CoreCompileInputs.cache
+C:\Users\Prime_05\OneDrive\Documents\Prime\ITEC 104\ITEC104_ACTIVITY4_ALVAREZ\ACTIVITY_04\ACTIVITY_04\obj\Debug\net6.0\ACTIVITY_04.dll
+C:\Users\Prime_05\OneDrive\Documents\Prime\ITEC 104\ITEC104_ACTIVITY4_ALVAREZ\ACTIVITY_04\ACTIVITY_04\obj\Debug\net6.0\refint\ACTIVITY_04.dll
+C:\Users\Prime_05\OneDrive\Documents\Prime\ITEC 104\ITEC104_ACTIVITY4_ALVAREZ\ACTIVITY_04\ACTIVITY_04\obj\Debug\net6.0\ACTIVITY_04.pdb
+C:\Users\Prime_05\OneDrive\Documents\Prime\ITEC 104\ITEC104_ACTIVITY4_ALVAREZ\ACTIVITY_04\ACTIVITY_04\obj\Debug\net6.0\ACTIVITY_04.genruntimeconfig.cache
+C:\Users\Prime_05\OneDrive\Documents\Prime\ITEC 104\ITEC104_ACTIVITY4_ALVAREZ\ACTIVITY_04\ACTIVITY_04\obj\Debug\net6.0\ref\ACTIVITY_04.dll
