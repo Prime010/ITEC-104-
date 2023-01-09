@@ -1,0 +1,77 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Documents;
+
+namespace MergeSort
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            var unsorted = new int[16];
+            var rnd = new Random();
+
+            for (int i = 0; i < unsorted.Length; i++)
+                unsorted[i] = rnd.Next(1, 101);
+
+            Console.WriteLine("unsorted data");
+            DisplayArray(unsorted);
+
+            MergeSort(unsorted);
+
+            Console.WriteLine("Sorted data");
+            DisplayArray(unsorted);
+
+        }
+
+        private static void MergeSort(Span<int> unsorted)
+        {
+            var center = unsorted.Length / 2;
+
+            if (unsorted.Length > 1)
+            {
+                MergeSort(unsorted.Slice(0, center));
+                MergeSort(unsorted.Slice(center));
+                MergeSort(unsorted, center);
+            }
+        }
+        private static void MergeSort(Span<int> result, int startofRightHalf)
+        {
+            var unsorted = result.ToArray();
+            var lhs = 0;
+            var rhs = startofRightHalf;
+            var offset = 0;
+
+            while (lhs < startofRightHalf && rhs < unsorted.Length)
+            {
+                if (unsorted[lhs] <= unsorted[rhs])
+                {
+                    result[offset] = unsorted[lhs];
+                    lhs++;
+                }
+                else
+                {
+                    result[offset] = unsorted[rhs];
+                    rhs++;
+                }
+                offset++;
+            }
+
+            while (lhs < startofRightHalf)
+            {
+                result[offset] = unsorted[lhs];
+                lhs++;
+                offset++;
+            }
+        }
+
+        private static void DisplayArray(int[] unsorted)
+        {
+            var text = string.Join(",", unsorted);
+            Console.WriteLine(text);
+        }
+    }
+}
