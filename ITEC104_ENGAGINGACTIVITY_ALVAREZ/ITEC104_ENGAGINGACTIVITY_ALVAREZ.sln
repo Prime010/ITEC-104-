@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITEC104_ENGAGINGACTIVITY_ALVAREZ", "ITEC104_ENGAGINGACTIVITY_ALVAREZ\ITEC104_ENGAGINGACTIVITY_ALVAREZ.csproj", "{F2D928E8-38EE-4F9B-A49B-BAD16E631F00}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITEC104_ENGAGINGACTIVITY_ALVAREZ", "ITEC104_ENGAGINGACTIVITY_ALVAREZ.csproj", "{C663FE48-E103-46CD-9DAB-3D43456B6A44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F2D928E8-38EE-4F9B-A49B-BAD16E631F00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F2D928E8-38EE-4F9B-A49B-BAD16E631F00}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F2D928E8-38EE-4F9B-A49B-BAD16E631F00}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F2D928E8-38EE-4F9B-A49B-BAD16E631F00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C663FE48-E103-46CD-9DAB-3D43456B6A44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C663FE48-E103-46CD-9DAB-3D43456B6A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C663FE48-E103-46CD-9DAB-3D43456B6A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C663FE48-E103-46CD-9DAB-3D43456B6A44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E4EAC9B3-15E4-4B8F-90C8-1AA6EBECA3EF}
+		SolutionGuid = {92F5EC84-8080-46AF-825A-F8A08803E84A}
 	EndGlobalSection
 EndGlobal
